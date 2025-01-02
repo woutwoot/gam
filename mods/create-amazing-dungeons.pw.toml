@@ -1,0 +1,13 @@
+name = "Create Amazing Structures"
+filename = "createamazingdungeons-1.0.5-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02e7f4bdf6726049383da16e0c31adda058e9c11"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6028219
+project-id = 1117024

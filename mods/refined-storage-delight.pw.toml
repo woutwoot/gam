@@ -1,0 +1,13 @@
+name = "Refined Storage Delight"
+filename = "refinedstoragedelight-1.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e92159a0548aef9d775443361e3b234c192058f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6000878
+project-id = 1117012

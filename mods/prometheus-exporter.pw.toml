@@ -1,6 +1,6 @@
 name = "Prometheus Exporter"
 filename = "Prometheus-Exporter-1.20.1-forge-1.2.1.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

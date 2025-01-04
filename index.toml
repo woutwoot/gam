@@ -26,11 +26,6 @@ hash = "8c04f9fd776591ebe8050f7504f23ef5b36f16507d95107b1c53ff408b01b3f8"
 metafile = true
 
 [[files]]
-file = "mods/eureka-ships.pw.toml"
-hash = "c61734cdfd93db9cc1509659e5719d8db79ffafec8eb9832776a0253f6096cdf"
-metafile = true
-
-[[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "20cf588f9bf8b021676f5e6bfb0bb6b2735a03bc4f0c705a414336b96ef69410"
 metafile = true
@@ -88,16 +83,6 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
-metafile = true
-
-[[files]]
-file = "mods/trackwork.pw.toml"
-hash = "eee76f2f332b3b33330108e68e7e4d17980bb0da85c6b832f54ee6c69c5e683e"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "08c2f56bec64aeb43ae003370351eaae0f1474387f9663765b281a25ba2049ce"
 metafile = true
 
 [[files]]

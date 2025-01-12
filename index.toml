@@ -26,6 +26,16 @@ hash = "d8f52da66536863a24f44cc7c6b9c8c9000d67e75c566f87d1b42e3842af1f32"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "4486abee612fa8aa3b750cf33a8d91414da69e851adceddad2287b8817b41a5a"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "cd8e87c2405d06479e708234f3297f1269fad49f07bc353ddd2f854812797911"
+metafile = true
+
+[[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "20cf588f9bf8b021676f5e6bfb0bb6b2735a03bc4f0c705a414336b96ef69410"
 metafile = true
@@ -38,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "6cd5dcc7f8be470d2b9be207783db249235cd8536b4cf0f923c86124b387848a"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "8fbbb7be4aab9e68447303d7972c76af09253111428c269320093ed3135f3ec0"
 metafile = true
 
 [[files]]
@@ -58,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "2f88cccd46472fdc34826e646363eee4f34293f6a27ee69eb1b5a95e729e4066"
 metafile = true
 
 [[files]]
